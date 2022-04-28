@@ -1,6 +1,6 @@
 # GorillaRooms VR
 
-#Quest build coming SOON
+# Quest build coming SOON
 
 # Discord: https://discord.gg/B5JDVb5Brt
 
